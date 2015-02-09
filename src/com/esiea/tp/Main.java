@@ -13,7 +13,7 @@ public class Main {
 		Acteur acteur4 = new Acteur("Kiefer", "Sutherland", 34);
 
 		ArrayList<Acteur> acteurs = new ArrayList<Acteur>();
-		
+		//jiyuto;
 		acteurs.add(acteur1);
 		acteurs.add(acteur2);
 		acteurs.add(acteur3);
